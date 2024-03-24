@@ -1,35 +1,21 @@
 ---
-title: Home
+title: Not the Rensselaer Handbook
 layout: home
+nav_order: 0
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Not the Rensselaer Handbook
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Written by Steve Staton, Tom White, and others
 
-More specifically, the created site:
+18 September 1985
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Adapted by DrBarnack, 2024
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Introduction
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Not the Rensselaer Handbook is intended to be a source of invaluable knowledge concerning the activities of students at RPI. It is written to be used as a reference guide to not only surviving at RPI, but for surviving with style. You could almost call Not the Handbook the "Passer-by's Guide to Rensselaer." However, we won't. Not the Handbook is not intended to be used as a collector's item, a scholastic aid, or a measure of the literary skill of the students involved, but rather as a tool to aid current, past and future students of RPI, in their attempts to live at and work with the school.
 
-To get started with creating a site, simply:
+The staff of Not the Handbook would like to thank the many hours of help it received from: the Association of Computer Machinery for the funds to digitally prepare the text; the Archives Department of the Folsom Library, whose staff were most helpful in preparing the history section of the text, and for other random items of information; and the Information and Personal Assistance Center for their cooperation with our Chapter of Lists investigations. Finally, we would like to thank the entire school for being the crazy institution it is, for how else could this thing be created?
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Not the Rensselaer Handbook is the views, opinions, and experiences of the staff of Not the Rensselaer Handbook. It is not intended to reflect, and does not necessarily inflect, the views of the faculty, staff, or administration of Rensselaer Polytechnic Institute, any group of students of the Institute other than the above-named Not the Handbook staff, or anybody else.

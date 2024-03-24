@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Not the Rensselaer Handbook
+description: The classic guide for RPI knurds
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://drbarnack.github.io/ntrh
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  RPI: https://www.rpi.edu
+  Repository: https://github.com/DrBarnack/ntrh
